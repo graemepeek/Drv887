@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+drv8847 KEYWORD1	drv887
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Motor1_Brake	KEYWORD2
+Motor2_Brake	KEYWORD2
+Motor1_Coast	KEYWORD2
+Motor2_Coast	KEYWORD2
+Motor1_Forward	KEYWORD2
+Motor2_Forward	KEYWORD2
+Motor1_Revserse	KEYWORD2
+Motor2_Revserse	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
